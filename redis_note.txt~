@@ -1,0 +1,2 @@
+---- start server > redis-server /path/to/config_file
+--------config_file should be copied from redis.conf file in installion folder

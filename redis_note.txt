@@ -1,0 +1,8 @@
+---- start server > redis-server /path/to/config_file
+--------config_file should be copied from redis.conf file in installion folder
+--------afer run this, server is running, close terminal
+
+
++++ redis-cli --> start command line interface
+
++++ redis-cli shutdown --> stop redis server
